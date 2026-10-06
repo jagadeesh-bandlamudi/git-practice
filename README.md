@@ -1,2 +1,2 @@
-git practice project version1
+git practice project version2
 
